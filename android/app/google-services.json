@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "933186164754",
+    "project_id": "shreegraphic-a6093",
+    "storage_bucket": "shreegraphic-a6093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933186164754:android:a6eb12e20424e70e43e0cb",
+        "android_client_info": {
+          "package_name": "com.shreespace.shreespace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933186164754-n8hduc9ad3un0on68qjie2qtpept86vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZY7o94KX7UJzyxd9ygSWKZLMRQb4USIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933186164754-n8hduc9ad3un0on68qjie2qtpept86vs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "933186164754-lsc2i35k0h3iq50463nlqn5lb99r1l18.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.shreegraphic.shreegraphic"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
